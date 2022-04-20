@@ -1,6 +1,7 @@
 # Calculadora IMC
 
-## calc-imcVamos construir um projeto simples, capaz de calcular o IMC (índice de massa corporal), de acordo com a seguinte especificação:
+## calc-imc 
+Vamos construir um projeto simples, capaz de calcular o IMC (índice de massa corporal), de acordo com a seguinte especificação:
 IMC = Peso / Altura²
 
 
